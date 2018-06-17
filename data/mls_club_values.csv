@@ -1,0 +1,230 @@
+year,club,players,total value
+2005,Colorado Rapids,30,£4.41m
+2005,Columbus Crew SC,32,£3.92m
+2005,Los Angeles Galaxy,26,£3.74m
+2005,FC Dallas,26,£2.79m
+2005,D.C. United,27,£2.25m
+2005,New York Red Bulls,22,£1.67m
+2005,Kansas City Wizards,27,£1.62m
+2005,Chicago Fire,27,£1.44m
+2005,Real Salt Lake City,31,£990k
+2005,New England Revolution,25,£900k
+2005,CD Chivas USA,28,£45k
+2006,Columbus Crew SC,47,£9.14m
+2006,Colorado Rapids,28,£6.26m
+2006,Kansas City Wizards,27,£5.63m
+2006,Los Angeles Galaxy,32,£4.91m
+2006,D.C. United,31,£4.55m
+2006,Toronto FC,31,£4.50m
+2006,New York Red Bulls,31,£4.37m
+2006,FC Dallas,28,£3.40m
+2006,New England Revolution,25,£2.93m
+2006,CD Chivas USA,29,£2.88m
+2006,Real Salt Lake City,29,£2.52m
+2006,Chicago Fire,26,£1.76m
+2006,Houston Dynamo,25,£1.71m
+2007,Los Angeles Galaxy,34,£24.32m
+2007,New York Red Bulls,32,£15.84m
+2007,FC Dallas,33,£9.83m
+2007,Toronto FC,35,£6.62m
+2007,San Jose Earthquakes,33,£6.59m
+2007,Columbus Crew SC,33,£5.63m
+2007,Chicago Fire,34,£4.95m
+2007,Real Salt Lake City,39,£4.34m
+2007,Colorado Rapids,32,£4.14m
+2007,New England Revolution,23,£2.93m
+2007,D.C. United,26,£2.70m
+2007,Kansas City Wizards,27,£2.66m
+2007,CD Chivas USA,30,£2.63m
+2007,Houston Dynamo,31,£1.26m
+2008,Los Angeles Galaxy,46,£18.09m
+2008,Toronto FC,40,£7.79m
+2008,Seattle Sounders FC,27,£7.04m
+2008,FC Dallas,39,£6.77m
+2008,D.C. United,39,£6.55m
+2008,Kansas City Wizards,31,£5.60m
+2008,New England Revolution,35,£5.24m
+2008,Chicago Fire,34,£5.22m
+2008,New York Red Bulls,32,£5.18m
+2008,San Jose Earthquakes,29,£5.16m
+2008,Real Salt Lake City,31,£4.75m
+2008,Columbus Crew SC,28,£4.64m
+2008,CD Chivas USA,34,£3.58m
+2008,Colorado Rapids,36,£2.77m
+2008,Houston Dynamo,24,£2.00m
+2009,Los Angeles Galaxy,26,£16.18m
+2009,Toronto FC,34,£9.99m
+2009,Kansas City Wizards,34,£7.83m
+2009,New York Red Bulls,33,£6.55m
+2009,Columbus Crew SC,28,£5.94m
+2009,San Jose Earthquakes,26,£5.04m
+2009,Houston Dynamo,32,£4.97m
+2009,D.C. United,43,£4.95m
+2009,Colorado Rapids,24,£4.61m
+2009,Chicago Fire,31,£4.21m
+2009,New England Revolution,32,£4.16m
+2009,CD Chivas USA,32,£3.98m
+2009,Real Salt Lake City,28,£3.83m
+2009,Philadelphia Union,22,£3.76m
+2009,FC Dallas,23,£3.29m
+2009,Seattle Sounders FC,28,£2.72m
+2010,New York Red Bulls,47,£31.52m
+2010,Los Angeles Galaxy,42,£29.43m
+2010,Toronto FC,57,£17.42m
+2010,Vancouver Whitecaps,49,£12.76m
+2010,CD Chivas USA,45,£12.76m
+2010,New England Revolution,42,£11.43m
+2010,Seattle Sounders FC,38,£10.31m
+2010,San Jose Earthquakes,41,£9.59m
+2010,Columbus Crew SC,49,£9.50m
+2010,Chicago Fire,46,£9.23m
+2010,Sporting Kansas City,35,£8.99m
+2010,Philadelphia Union,33,£8.89m
+2010,Houston Dynamo,37,£8.60m
+2010,D.C. United,32,£7.74m
+2010,Colorado Rapids,32,£6.75m
+2010,FC Dallas,39,£6.64m
+2010,Portland Timbers,43,£6.03m
+2010,Real Salt Lake City,34,£5.36m
+2011,New York Red Bulls,43,£31.25m
+2011,Los Angeles Galaxy,46,£21.85m
+2011,Montreal Impact,31,£18.68m
+2011,Vancouver Whitecaps,32,£17.46m
+2011,Seattle Sounders FC,44,£15.71m
+2011,Colorado Rapids,47,£12.78m
+2011,Chicago Fire,33,£12.26m
+2011,Toronto FC,43,£12.17m
+2011,Portland Timbers,39,£10.94m
+2011,New England Revolution,35,£10.76m
+2011,FC Dallas,40,£10.37m
+2011,Sporting Kansas City,38,£9.83m
+2011,Houston Dynamo,35,£9.79m
+2011,Philadelphia Union,41,£9.68m
+2011,D.C. United,28,£8.53m
+2011,Columbus Crew SC,39,£7.70m
+2011,Real Salt Lake City,36,£6.46m
+2011,CD Chivas USA,32,£6.14m
+2011,San Jose Earthquakes,32,£5.33m
+2012,Seattle Sounders FC,45,£32.63m
+2012,New York Red Bulls,37,£22.46m
+2012,Toronto FC,56,£20.07m
+2012,Los Angeles Galaxy,43,£18.29m
+2012,Vancouver Whitecaps,34,£14.60m
+2012,CD Chivas USA,40,£14.54m
+2012,Portland Timbers,35,£13.70m
+2012,Chicago Fire,42,£13.55m
+2012,D.C. United,46,£13.43m
+2012,FC Dallas,34,£12.20m
+2012,San Jose Earthquakes,36,£11.12m
+2012,Houston Dynamo,36,£11.07m
+2012,Sporting Kansas City,34,£10.42m
+2012,Montreal Impact,29,£10.33m
+2012,Colorado Rapids,35,£10.31m
+2012,Real Salt Lake City,36,£9.20m
+2012,Philadelphia Union,31,£8.15m
+2012,New England Revolution,31,£7.18m
+2012,Columbus Crew SC,36,£6.98m
+2013,Toronto FC,27,£25.36m
+2013,Seattle Sounders FC,31,£23.36m
+2013,Los Angeles Galaxy,36,£11.43m
+2013,San Jose Earthquakes,36,£11.27m
+2013,Portland Timbers,28,£10.26m
+2013,Montreal Impact,32,£10.01m
+2013,New York Red Bulls,29,£9.43m
+2013,Vancouver Whitecaps,27,£9.02m
+2013,Philadelphia Union,25,£8.87m
+2013,FC Dallas,26,£8.78m
+2013,Houston Dynamo,29,£8.44m
+2013,Sporting Kansas City,31,£8.06m
+2013,CD Chivas USA,29,£7.88m
+2013,Real Salt Lake City,28,£7.03m
+2013,Colorado Rapids,30,£6.84m
+2013,Chicago Fire,27,£6.23m
+2013,D.C. United,25,£6.10m
+2013,Columbus Crew SC,26,£6.01m
+2013,New England Revolution,28,£5.36m
+2014,Toronto FC,27,£28.06m
+2014,Seattle Sounders FC,34,£17.06m
+2014,New York City FC,29,£15.75m
+2014,Portland Timbers,35,£14.51m
+2014,Orlando City SC,28,£14.24m
+2014,Montreal Impact,43,£13.97m
+2014,Sporting Kansas City,39,£12.98m
+2014,New York Red Bulls,42,£12.08m
+2014,San Jose Earthquakes,28,£11.84m
+2014,Philadelphia Union,28,£11.79m
+2014,Chicago Fire,29,£10.33m
+2014,Columbus Crew SC,30,£8.78m
+2014,Vancouver Whitecaps,34,£8.69m
+2014,Houston Dynamo,24,£8.57m
+2014,Los Angeles Galaxy,30,£8.33m
+2014,Real Salt Lake City,34,£7.90m
+2014,D.C. United,37,£7.83m
+2014,FC Dallas,33,£7.04m
+2014,New England Revolution,28,£6.80m
+2014,Colorado Rapids,30,£5.69m
+2015,Los Angeles Galaxy,39,£35.80m
+2015,Seattle Sounders FC,41,£21.83m
+2015,Toronto FC,27,£18.99m
+2015,New York City FC,26,£18.79m
+2015,Real Salt Lake City,33,£18.38m
+2015,Colorado Rapids,24,£14.02m
+2015,Orlando City SC,27,£13.25m
+2015,Philadelphia Union,22,£13.10m
+2015,FC Dallas,26,£13.10m
+2015,Vancouver Whitecaps,36,£13.01m
+2015,Columbus Crew SC,26,£12.35m
+2015,Sporting Kansas City,25,£12.13m
+2015,Portland Timbers,25,£11.70m
+2015,Montreal Impact,28,£11.48m
+2015,D.C. United,35,£11.41m
+2015,New York Red Bulls,27,£11.21m
+2015,New England Revolution,25,£9.95m
+2015,Houston Dynamo,25,£9.59m
+2015,San Jose Earthquakes,26,£9.38m
+2015,Chicago Fire,25,£8.73m
+2016,Los Angeles Galaxy,35,£31.95m
+2016,Vancouver Whitecaps,54,£28.80m
+2016,Atlanta United FC,37,£27.41m
+2016,Chicago Fire,30,£25.92m
+2016,Portland Timbers,49,£24.66m
+2016,Toronto FC,31,£22.84m
+2016,Seattle Sounders FC,37,£22.01m
+2016,New York City FC,31,£19.94m
+2016,Orlando City SC,37,£19.06m
+2016,D.C. United,37,£17.62m
+2016,Colorado Rapids,33,£17.55m
+2016,Sporting Kansas City,53,£16.67m
+2016,Montreal Impact,34,£15.37m
+2016,FC Dallas,41,£15.35m
+2016,Philadelphia Union,32,£15.14m
+2016,New York Red Bulls,39,£14.99m
+2016,Real Salt Lake City,39,£14.76m
+2016,New England Revolution,26,£14.67m
+2016,San Jose Earthquakes,36,£14.13m
+2016,Columbus Crew SC,33,£13.68m
+2016,Minnesota United FC,37,£11.70m
+2016,Houston Dynamo,38,£9.50m
+2017,Atlanta United FC,29,£37.26m
+2017,Toronto FC,30,£29.75m
+2017,Los Angeles Galaxy,27,£25.70m
+2017,Portland Timbers,29,£21.87m
+2017,Los Angeles FC,26,£19.91m
+2017,New York City FC,25,£19.01m
+2017,New York Red Bulls,30,£18.45m
+2017,Orlando City SC,27,£17.69m
+2017,Chicago Fire,28,£17.53m
+2017,Seattle Sounders FC,28,£17.51m
+2017,Philadelphia Union,29,£17.08m
+2017,Sporting Kansas City,28,£16.29m
+2017,FC Dallas,26,£15.73m
+2017,Montreal Impact,27,£15.41m
+2017,Colorado Rapids,27,£15.05m
+2017,Vancouver Whitecaps,27,£14.74m
+2017,Columbus Crew SC,26,£14.72m
+2017,San Jose Earthquakes,27,£13.77m
+2017,D.C. United,26,£13.59m
+2017,Real Salt Lake City,30,£13.21m
+2017,Minnesota United FC,30,£12.87m
+2017,Houston Dynamo,29,£12.60m
+2017,New England Revolution,23,£12.38m

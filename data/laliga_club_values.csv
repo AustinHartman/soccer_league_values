@@ -1,0 +1,261 @@
+year,club,players,total value
+2005,Real Madrid,25,£255.38m
+2005,FC Barcelona,25,£247.70m
+2005,Valencia CF,27,£189.81m
+2005,Deportivo de La Coruña,32,£106.83m
+2005,Atlético Madrid,30,£102.33m
+2005,Real Betis Balompié,26,£70.29m
+2005,Sevilla FC,31,£65.93m
+2005,Villarreal CF,29,£63.00m
+2005,RCD Espanyol Barcelona,27,£49.95m
+2005,Real Zaragoza,23,£47.48m
+2005,Real Sociedad,30,£41.63m
+2005,RCD Mallorca,25,£35.91m
+2005,Athletic Bilbao,40,£34.83m
+2005,Celta de Vigo,27,£32.72m
+2005,CA Osasuna,24,£21.60m
+2005,Racing Santander,28,£20.57m
+2005,Málaga CF,33,£18.99m
+2005,Deportivo Alavés,28,£18.86m
+2005,Getafe CF,22,£17.95m
+2005,Cádiz CF,25,£1.49m
+2006,FC Barcelona,28,£319.41m
+2006,Real Madrid,36,£290.70m
+2006,Valencia CF,32,£179.69m
+2006,Atlético Madrid,30,£140.24m
+2006,Villarreal CF,29,£88.97m
+2006,Deportivo de La Coruña,27,£82.80m
+2006,Sevilla FC,30,£77.81m
+2006,Real Zaragoza,25,£72.90m
+2006,Real Betis Balompié,30,£60.75m
+2006,RCD Espanyol Barcelona,33,£53.87m
+2006,Levante UD,29,£52.43m
+2006,RCD Mallorca,24,£51.57m
+2006,Celta de Vigo,27,£42.26m
+2006,CA Osasuna,31,£41.58m
+2006,Athletic Bilbao,29,£39.29m
+2006,Real Sociedad,32,£37.78m
+2006,Racing Santander,32,£35.35m
+2006,Getafe CF,25,£23.20m
+2006,Gimnàstic de Tarragona,33,£20.34m
+2006,Recreativo Huelva,25,£19.98m
+2007,FC Barcelona,33,£361.98m
+2007,Real Madrid,25,£305.51m
+2007,Valencia CF,28,£213.48m
+2007,Atlético Madrid,31,£164.70m
+2007,Sevilla FC,34,£155.07m
+2007,Real Zaragoza,32,£109.13m
+2007,Villarreal CF,28,£98.03m
+2007,Real Betis Balompié,32,£65.90m
+2007,Deportivo de La Coruña,29,£62.91m
+2007,CA Osasuna,30,£58.10m
+2007,Athletic Bilbao,31,£57.76m
+2007,RCD Espanyol Barcelona,29,£56.43m
+2007,Getafe CF,30,£41.36m
+2007,Racing Santander,29,£38.84m
+2007,RCD Mallorca,27,£37.80m
+2007,Recreativo Huelva,27,£35.91m
+2007,Levante UD,35,£35.10m
+2007,Real Murcia CF,28,£22.16m
+2007,UD Almería,22,£15.98m
+2007,Real Valladolid CF,27,£14.47m
+2008,FC Barcelona,25,£330.57m
+2008,Real Madrid,28,£325.17m
+2008,Valencia CF,26,£178.65m
+2008,Atlético Madrid,21,£174.42m
+2008,Sevilla FC,27,£153.09m
+2008,Villarreal CF,28,£118.17m
+2008,RCD Espanyol Barcelona,27,£100.53m
+2008,Real Betis Balompié,26,£83.79m
+2008,CA Osasuna,28,£61.07m
+2008,Racing Santander,25,£60.21m
+2008,RCD Mallorca,24,£58.23m
+2008,Deportivo de La Coruña,30,£56.52m
+2008,Getafe CF,26,£56.43m
+2008,Athletic Bilbao,27,£53.91m
+2008,UD Almería,23,£53.42m
+2008,Recreativo Huelva,26,£42.01m
+2008,Real Valladolid CF,26,£39.96m
+2008,Málaga CF,27,£35.69m
+2008,CD Numancia,25,£25.29m
+2008,Sporting Gijón,29,£17.73m
+2009,Real Madrid,31,£440.46m
+2009,FC Barcelona,31,£382.95m
+2009,Valencia CF,34,£192.42m
+2009,Sevilla FC,36,£192.42m
+2009,Atlético Madrid,37,£189.36m
+2009,Villarreal CF,31,£150.03m
+2009,Real Zaragoza,37,£78.75m
+2009,Racing Santander,34,£70.83m
+2009,Athletic Bilbao,36,£68.72m
+2009,RCD Espanyol Barcelona,34,£66.33m
+2009,Getafe CF,29,£66.15m
+2009,UD Almería,25,£57.96m
+2009,Deportivo de La Coruña,31,£56.25m
+2009,Málaga CF,37,£54.72m
+2009,CA Osasuna,27,£49.32m
+2009,RCD Mallorca,27,£45.99m
+2009,Real Valladolid CF,32,£44.91m
+2009,Sporting Gijón,35,£38.43m
+2009,Xerez CD,26,£29.25m
+2009,CD Tenerife,24,£19.44m
+2010,FC Barcelona,34,£504.99m
+2010,Real Madrid,38,£456.21m
+2010,Sevilla FC,35,£202.64m
+2010,Atlético Madrid,30,£176.94m
+2010,Valencia CF,32,£160.29m
+2010,Villarreal CF,34,£130.59m
+2010,Athletic Bilbao,30,£88.47m
+2010,Málaga CF,37,£74.34m
+2010,Deportivo de La Coruña,33,£66.92m
+2010,Getafe CF,29,£61.74m
+2010,Real Zaragoza,30,£60.30m
+2010,CA Osasuna,29,£59.90m
+2010,UD Almería,29,£57.92m
+2010,Racing Santander,30,£56.12m
+2010,Hércules CF,32,£55.40m
+2010,RCD Espanyol Barcelona,35,£54.99m
+2010,Sporting Gijón,33,£51.84m
+2010,RCD Mallorca,27,£48.80m
+2010,Real Sociedad,26,£39.15m
+2010,Levante UD,33,£24.57m
+2011,FC Barcelona,35,£559.35m
+2011,Real Madrid,32,£472.68m
+2011,Atlético Madrid,33,£181.89m
+2011,Valencia CF,27,£152.91m
+2011,Villarreal CF,34,£134.96m
+2011,Sevilla FC,32,£130.95m
+2011,Málaga CF,32,£115.38m
+2011,Athletic Bilbao,30,£103.23m
+2011,Getafe CF,31,£71.55m
+2011,RCD Espanyol Barcelona,34,£67.14m
+2011,Real Zaragoza,31,£65.25m
+2011,Real Sociedad,25,£63.00m
+2011,RCD Mallorca,31,£54.99m
+2011,Granada CF,28,£46.53m
+2011,Sporting Gijón,31,£44.78m
+2011,Real Betis Balompié,33,£42.03m
+2011,Racing Santander,34,£39.24m
+2011,Levante UD,31,£37.44m
+2011,CA Osasuna,32,£36.32m
+2011,Rayo Vallecano,34,£30.60m
+2012,FC Barcelona,27,£558.90m
+2012,Real Madrid,33,£534.15m
+2012,Atlético Madrid,27,£159.75m
+2012,Valencia CF,27,£154.08m
+2012,Sevilla FC,31,£120.69m
+2012,Athletic Bilbao,29,£105.84m
+2012,Málaga CF,33,£100.17m
+2012,Granada CF,29,£69.93m
+2012,Getafe CF,28,£63.63m
+2012,Real Sociedad,22,£62.10m
+2012,RCD Mallorca,32,£53.87m
+2012,Deportivo de La Coruña,29,£53.37m
+2012,RCD Espanyol Barcelona,27,£53.01m
+2012,Real Betis Balompié,33,£46.26m
+2012,Levante UD,31,£46.22m
+2012,Real Zaragoza,34,£45.05m
+2012,CA Osasuna,30,£41.76m
+2012,Rayo Vallecano,34,£37.53m
+2012,Celta de Vigo,29,£33.26m
+2012,Real Valladolid CF,24,£21.47m
+2013,FC Barcelona,32,£558.32m
+2013,Real Madrid,34,£545.94m
+2013,Atlético Madrid,36,£235.89m
+2013,Valencia CF,37,£162.59m
+2013,Sevilla FC,43,£132.39m
+2013,Real Sociedad,32,£104.49m
+2013,Athletic Bilbao,29,£103.59m
+2013,Granada CF,40,£63.68m
+2013,Real Betis Balompié,43,£62.10m
+2013,Getafe CF,32,£58.59m
+2013,Málaga CF,31,£58.39m
+2013,Villarreal CF,28,£56.52m
+2013,Celta de Vigo,31,£50.40m
+2013,RCD Espanyol Barcelona,28,£50.13m
+2013,Elche CF,35,£47.97m
+2013,Levante UD,34,£41.31m
+2013,CA Osasuna,31,£39.87m
+2013,Rayo Vallecano,32,£39.47m
+2013,Real Valladolid CF,26,£36.79m
+2013,UD Almería,31,£30.42m
+2014,Real Madrid,41,£582.89m
+2014,FC Barcelona,31,£538.61m
+2014,Atlético Madrid,32,£260.10m
+2014,Valencia CF,26,£123.57m
+2014,Sevilla FC,34,£110.39m
+2014,Athletic Bilbao,27,£99.45m
+2014,Real Sociedad,30,£96.57m
+2014,Villarreal CF,37,£79.74m
+2014,Málaga CF,30,£56.12m
+2014,Granada CF,39,£54.88m
+2014,RCD Espanyol Barcelona,31,£49.59m
+2014,Rayo Vallecano,29,£47.34m
+2014,Deportivo de La Coruña,33,£43.74m
+2014,Getafe CF,34,£43.34m
+2014,Levante UD,31,£42.39m
+2014,Córdoba CF,36,£40.23m
+2014,Celta de Vigo,28,£35.46m
+2014,Elche CF,29,£28.24m
+2014,UD Almería,31,£22.59m
+2014,SD Eibar,25,£18.99m
+2015,Real Madrid,30,£630.68m
+2015,FC Barcelona,32,£556.65m
+2015,Atlético Madrid,30,£302.40m
+2015,Valencia CF,38,£229.05m
+2015,Sevilla FC,38,£167.85m
+2015,Athletic Bilbao,28,£110.61m
+2015,Real Sociedad,32,£110.03m
+2015,Villarreal CF,28,£103.77m
+2015,Málaga CF,33,£70.38m
+2015,Granada CF,33,£65.88m
+2015,Real Betis Balompié,33,£65.21m
+2015,Levante UD,31,£61.38m
+2015,Celta de Vigo,28,£57.42m
+2015,RCD Espanyol Barcelona,33,£55.53m
+2015,Getafe CF,31,£49.64m
+2015,Rayo Vallecano,35,£48.42m
+2015,Deportivo de La Coruña,30,£46.22m
+2015,SD Eibar,35,£41.36m
+2015,Sporting Gijón,29,£27.45m
+2015,UD Las Palmas,33,£26.33m
+2016,FC Barcelona,37,£708.48m
+2016,Real Madrid,33,£668.79m
+2016,Atlético Madrid,47,£411.03m
+2016,Valencia CF,40,£257.76m
+2016,Sevilla FC,40,£212.76m
+2016,Villarreal CF,39,£142.83m
+2016,Athletic Bilbao,35,£136.44m
+2016,Real Sociedad,34,£99.45m
+2016,Celta de Vigo,32,£85.95m
+2016,Deportivo de La Coruña,37,£83.52m
+2016,Granada CF,43,£76.95m
+2016,RCD Espanyol Barcelona,35,£76.23m
+2016,Málaga CF,36,£72.54m
+2016,Real Betis Balompié,31,£69.12m
+2016,UD Las Palmas,33,£50.31m
+2016,SD Eibar,38,£46.89m
+2016,Sporting Gijón,33,£45.45m
+2016,CD Leganés,37,£42.57m
+2016,Deportivo Alavés,30,£35.82m
+2016,CA Osasuna,37,£33.21m
+2017,FC Barcelona,23,£916.20m
+2017,Real Madrid,23,£857.25m
+2017,Atlético Madrid,19,£598.50m
+2017,Valencia CF,22,£320.85m
+2017,Sevilla FC,26,£218.97m
+2017,Athletic Bilbao,23,£173.97m
+2017,Real Sociedad,25,£172.53m
+2017,Villarreal CF,25,£168.39m
+2017,Celta de Vigo,20,£143.82m
+2017,Real Betis Balompié,23,£115.38m
+2017,RCD Espanyol Barcelona,23,£84.24m
+2017,Girona FC,22,£69.30m
+2017,Deportivo Alavés,25,£59.76m
+2017,Getafe CF,24,£54.45m
+2017,Deportivo de La Coruña,25,£54.00m
+2017,CD Leganés,25,£51.03m
+2017,SD Eibar,24,£49.86m
+2017,Levante UD,29,£45.36m
+2017,Málaga CF,28,£41.13m
+2017,UD Las Palmas,24,£32.58m
